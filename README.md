@@ -12,7 +12,23 @@ Features:
 6. Repair computers will be updated by admin.
 
 Installation/set up:
-1. 
+1. Create a new folder in VScode(coding platform).
+2. Create python virtual environment inside the folder.
+3. Install pillow and tkcalendar.
+4. Coonect to MySQL workbench.
+5. Save the above two images inside the folder named assests.
+6. Save the deskslot.py(code) inside the folder named source.
+7. Move into the virtual environment through commandprompt in terminal.
+8. run the code by typing command py deskSlot.py
+
+Usage:
+1. Login as student with student admission number provided by our college.
+2. Select the date and time slot.
+3. Select the d-211/digital library.
+4. Select the seat which are in grey color(indicates available seats).
+5. Red color indicates computers under repair, yellow indicates already booked.
+6. Click on submit.
+7. Your slot details shown if you confirm your seat.
 
 Acknowledgements:
 Special thanks to Shri Vishnu Engineering College for Women for their support and guidance.
