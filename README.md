@@ -12,4 +12,8 @@ Features:
 6. Repair computers will be updated by admin.
 
 Installation/set up:
+1. 
 
+Acknowledgements:
+Special thanks to Shri Vishnu Engineering College for Women for their support and guidance.
+Thanks to all contributors for their valuable input and efforts in developing this application.
