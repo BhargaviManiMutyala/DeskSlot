@@ -20,7 +20,7 @@ The **DeskSlot Booking System** is an application designed to eliminate the diff
 2. **Set up a Python Virtual Environment** inside the folder.  
 3. **Install Dependencies**:  
    ```bash
-   pip install pillow tkcalendar
+   py -m pip install mysql-connector-python pillow tkcalendar
    ```  
 4. **Connect to MySQL Workbench** for database management.  
 5. **Save required images** inside a folder named `assets`.  
