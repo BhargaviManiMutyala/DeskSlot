@@ -812,7 +812,7 @@ class Welcome:
 conn = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
-    password = 'Aditi5*#',
+    password = 'YOUR_PASSWORD',
     auth_plugin='mysql_native_password'
 )
 cursor = conn.cursor()
